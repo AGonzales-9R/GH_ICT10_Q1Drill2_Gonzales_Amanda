@@ -13,7 +13,7 @@ def displaycontent(e):
     multiline_string = """
     🍓 Student Profile:
     \n
-    Name: {}
+    Full Name: {}
     Age: {}
     School: {}
     School Email: {}
